@@ -1,0 +1,7 @@
+include ':Customlibrary'
+include ':Adapterlibrary'
+include ':Utilslibrary'
+include ':Netlibrary'
+include ':Mvplibrary'
+include ':app'
+rootProject.name = "Storage_Box"
